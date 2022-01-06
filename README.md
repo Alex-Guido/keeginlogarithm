@@ -3,6 +3,11 @@ This tool is for educational purposes only. To be used in your own network and l
 
 This tool is open source, you can edit/modify/contribute to this tool.
 
+I added a bit to this program from this [Author](https://github.com/HusseinBakri/Tanit-Keylogger) | HusseinBakri 
+
+I learnt and followed along with this course on [Udemy](https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/)
+
+
 # Description
 This is a remote keylogger, one of many projects I am working on. This keylogger can run on Linux and Windows, it logs all keystrokes and reports these recorded keystrokes to your email every 5 minutes (This can be edited). You can package this as an executable in Linux and Windows.
 
