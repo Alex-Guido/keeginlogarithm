@@ -4,7 +4,7 @@ This tool is for educational purposes only. To be used in your own network and l
 This tool is open source, you can edit/modify/contribute to this tool.
 
 # Description
-This is a remote keylogger, one of many projects I am working on. This keylogger can run on Linux and windows, it logs all keystrokes and sends these recorded keystrokes to your email every 5 minutes (This can be edited). You can package this as an executable in Linux and Windows.
+This is a remote keylogger, one of many projects I am working on. This keylogger can run on Linux and Windows, it logs all keystrokes and sends these recorded keystrokes to your email every 5 minutes (This can be edited). You can package this as an executable in Linux and Windows.
 
 # Requirements 
 Make sure you have pynput module and pyinstaller (for packaging) installed.
